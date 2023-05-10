@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="35"><h1 align="center">Hi, I am Rahma Abdelkader <img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I am Rahma Abdelkader <img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="35"></h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
@@ -21,7 +21,7 @@
 - :thinking: I’m currently available for any intership oppertunity,if you have any ? ==> this is  [My Resume](https://drive.google.com/file/d/1SY0uPCzSNLlLw4LZI3TGzOnPYwYXbbhk/view?usp=sharing).
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools : :hammer_and_wrench:
   <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="embeddedc"  alt="embeddedc" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> <a href="https://en.wikipedia.org/wiki/C%2B%2B">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>
