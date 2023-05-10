@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Rahma Abdelkader <img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="35"></h1>
+<img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="35"><h1 align="center">Hi, I am Rahma Abdelkader <img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="35"></h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
