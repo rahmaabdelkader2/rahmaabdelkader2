@@ -34,6 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt"  alt="qt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv"  alt="opencv" width="40" height="40"/>&nbsp;
   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmaabdelkader2&show_icons=true&locale=en" alt="rahmaabdelkader2" /></p>
 
 
 
