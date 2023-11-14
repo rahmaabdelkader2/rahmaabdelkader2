@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=rahmaabdelkader2&label=Profile%20views&color=0e75b6&style=flat" alt="Rahma Abdelkader" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
-</div>
+
 
 <p align="center"> 
  <a href="https://www.linkedin.com/in/rahma-abdelkader-aa1858234/">
