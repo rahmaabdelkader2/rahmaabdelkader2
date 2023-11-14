@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I am Rahma Abdelkader <img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I am Rahma Abdelkader <img src="https://media.giphy.com/media/l46CssbmY5TEWcEEM/giphy.gif" width="50"></h1>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahmaabdelkader2&label=Profile%20views&color=0e75b6&style=flat" alt="Rahma Abdelkader" />
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
