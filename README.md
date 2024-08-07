@@ -22,7 +22,7 @@
 ### About Me :woman_technologist:
 -  I am an undergraduate System and Biomedical Engineering Student at Cairo University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I have a great enthusiasm in `Embedded system` and `Artificial intelligence`.
-- :thinking: I’m currently available for any intership oppertunity,if you have any ? ==> this is  [My Resume](https://drive.google.com/file/d/1599VUvQ3VM_elgENQ2rDQy7hy9mwXwM9/view?usp=sharing).
+- :thinking: I’m currently available for any intership oppertunity,if you have any ? ==> this is  [My Resume](https://drive.google.com/file/d/1xie1V1Tw0eiUgx5pM5Pr8WEM0SerFNnR/view?usp=sharing).
 
 ---
 ### Languages and Tools : :hammer_and_wrench:
