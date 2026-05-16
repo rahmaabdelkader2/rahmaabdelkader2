@@ -42,7 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmaabdelkader2&show_icons=true&locale=en" alt="rahmaabdelkader2" /></p>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rahma?theme=unicorn&font=Karla&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abdelkaderrahma7?theme=unicorn&font=Karla&ext=heatmap)
 <!--
 **rahmaabdelkader2/rahmaabdelkader2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
